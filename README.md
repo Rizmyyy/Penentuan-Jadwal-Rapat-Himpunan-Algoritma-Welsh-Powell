@@ -37,12 +37,12 @@ Jupyter Notebook: Jalankan jupyter notebook dari terminal di direktori root repo
 Google Colab: Unggah file .ipynb dari direktori src/ ke Google Drive Anda, lalu buka dengan Google Colab.
 
 Jalankan Notebook: Buka graph_visualization.ipynb dan graph_coloring_and_analysis.ipynb secara berurutan dan jalankan setiap sel kode.
-
+```bash
 Hasil Penting
 Dari analisis dan pewarnaan graf menggunakan Algoritma Welsh-Powell, ditemukan bahwa 
 
 Hari Jumat pukul 15:00 - 18:00 WIB merupakan satu-satunya waktu yang memenuhi kriteria (minimal 2 jam dan sebelum pukul 18:00 WIB) dan tidak bertabrakan dengan jadwal kuliah lima kelas yang dianalisis (2 INF A, B, C dan 4 INF A, B). Waktu ini ditetapkan sebagai waktu resmi untuk pelaksanaan rapat rutin himpunan.
-bash```
+
 Kontributor
 Mohammad Satria Zacky M (234110601034) 
 Umi Fatihaturrohmah (234110601047) 
