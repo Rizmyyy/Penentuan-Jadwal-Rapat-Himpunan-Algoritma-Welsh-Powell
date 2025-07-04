@@ -42,3 +42,8 @@ Hasil Penting
 Dari analisis dan pewarnaan graf menggunakan Algoritma Welsh-Powell, ditemukan bahwa 
 
 Hari Jumat pukul 15:00 - 18:00 WIB merupakan satu-satunya waktu yang memenuhi kriteria (minimal 2 jam dan sebelum pukul 18:00 WIB) dan tidak bertabrakan dengan jadwal kuliah lima kelas yang dianalisis (2 INF A, B, C dan 4 INF A, B). Waktu ini ditetapkan sebagai waktu resmi untuk pelaksanaan rapat rutin himpunan.
+
+Kontributor
+Mohammad Satria Zacky M (234110601034) 
+Umi Fatihaturrohmah (234110601047) 
+Desti Yatimatuz Zahro (234110601015) 
