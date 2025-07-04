@@ -1,0 +1,45 @@
+ID Simpul;Kelas;Hari;Mata Kuliah;Jam Mulai;Jam Selesai;ID Simpul
+C1;2 INF A;Senin;Matematika Diskrit;08:30;10:10;C1
+C2;2 INF A;Selasa;Logika Informatika;10:15;11:55;C2
+C3;2 INF A;Rabu;Pancasila;07:30;09:10;C3
+C4;2 INF A;Kamis;Sistem Operasi;10:15;11:55;C4
+C5;2 INF A;Jumat;Etika Profesi;13:00;14:40;C5
+C6;2 INF B;Senin;Aljabar Linier;08:30;10:10;C6
+C7;2 INF B;Rabu;Basis Data;09:15;10:55;C7
+C8;2 INF B;Kamis;Al Quran;13:00;14:40;C8
+C9;2 INF B;Jumat;Pengantar Komputer;10:00;11:40;C9
+C10;2 INF C;Senin;Kalkulus;08:30;10:10;C10
+C11;2 INF C;Selasa;Pengantar Teknologi Informasi;08:30;10:10;C11
+C12;2 INF C;Selasa;Bahasa Indonesia;13:00;14:40;C12
+C13;2 INF C;Rabu;Sistem Operasi;07:00;08:40;C13
+C14;2 INF C;Kamis;PAI;07:00;08:40;C14
+C15;2 INF C;Jumat;Bahasa Indonesia;10:15;11:55;C15
+C16;2 INF C;Jumat;Etika Profesi;13:00;14:40;C16
+C17;4 INF A;Senin;Kecerdasan Buatan;13:00;14:40;C17
+C18;4 INF A;Selasa;Struktur Data;07:00;08:40;C18
+C19;4 INF A;Selasa;Sistem Basis Data;13:00;14:40;C19
+C20;4 INF A;Rabu;Sistem Operasi Lanjut;09:00;10:40;C20
+C21;4 INF A;Kamis;PBO;10:15;11:55;C21
+C22;4 INF A;Jumat;Etika Profesi;08:30;10:10;C22
+C23;4 INF A;Jumat;Bahasa Indonesia;10:15;11:55;C23
+C24;4 INF A;Jumat;HCI dan UI/UX;13:00;14:40;C24
+C25;4 INF B;Senin;Matematika Diskrit;08:30;10:10;C25
+C26;4 INF B;Senin;Logika Informatika;10:15;11:55;C26
+C27;4 INF B;Selasa;Struktur Data;07:00;08:40;C27
+C28;4 INF B;Selasa;Kecerdasan Buatan;08:45;10:25;C28
+C29;4 INF B;Selasa;Bahasa Inggris;13:00;14:40;C29
+C30;4 INF B;Rabu;Sistem Digital;13:00;14:40;C30
+C31;4 INF B;Kamis;PBO;08:30;10:10;C31
+C32;4 INF B;Kamis;Bahasa Inggris;13:00;14:40;C32
+C33;4 INF B;Jumat;HCI dan UI/UX;12:30;15:00;C33
+C34;4 INF A;Senin;Rekayasa Perangkat Lunak;07:00;08:40;C34
+C35;2 INF B;Rabu;Bahasa Inggris;11:00;12:40;C35
+C36;2 INF A;Senin;Algoritma dan Pemrograman;13:00;14:40;C36
+C37;2 INF A;Rabu;Struktur Data;10:15;11:55;C37
+C38;2 INF B;Jumat;Kalkulus;08:30;10:10;C38
+C39;4 INF A;Kamis;Bahasa Inggris;13:00;14:40;C39
+C40;4 INF A;Kamis;Proyek Perangkat Lunak;08:30;10:10;C40
+C41;2 INF C;Rabu;Basis Data;13:00;14:40;C41
+C42;2 INF C;Kamis;Bahasa Inggris;10:15;11:55;C42
+C43;2 INF C;Jumat;Algoritma dan Pemrograman;08:30;10:10;C43
+C44;2 INF A;Kamis;Bahasa Inggris;13:00;14:40;C44
