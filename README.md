@@ -21,7 +21,7 @@ Untuk menjalankan kode di repositori ini, Anda memerlukan lingkungan Python deng
 
 ### Prasyarat
 Pastikan Anda memiliki Python (versi 3.x direkomendasikan) terinstal. Anda dapat menginstal library yang dibutuhkan menggunakan `pip`:
-```bash
+
 pip install networkx matplotlib pandas
 Langkah-langkah
 Klon Repositori:
@@ -37,7 +37,7 @@ Jupyter Notebook: Jalankan jupyter notebook dari terminal di direktori root repo
 Google Colab: Unggah file .ipynb dari direktori src/ ke Google Drive Anda, lalu buka dengan Google Colab.
 
 Jalankan Notebook: Buka graph_visualization.ipynb dan graph_coloring_and_analysis.ipynb secara berurutan dan jalankan setiap sel kode.
-```bash
+
 Hasil Penting
 Dari analisis dan pewarnaan graf menggunakan Algoritma Welsh-Powell, ditemukan bahwa 
 
